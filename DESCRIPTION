@@ -1,10 +1,12 @@
 Package: statsAndBooze
-Title: What the Package Does (One Line, Title Case)
+Title: Find the best day to have a beer!
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+    person("Sofia", "Maggioni", , "sofia.maggioni1@studenti.unimi.it", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Config/roxygen2/version: 8.1.1
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
+Imports: 
+    lubridate
